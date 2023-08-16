@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200978025252",
+    "firebase_url": "https://dev-fem-01-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dev-fem-01",
+    "storage_bucket": "dev-fem-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200978025252:android:ff1ab92fddda2c8ea2c1b1",
+        "android_client_info": {
+          "package_name": "com.example.fem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200978025252-37fr72qu6h2djhhqcohqvaahloiob329.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fem",
+            "certificate_hash": "5713a538804f4f1bebefa439fd77a6f9af6cdad9"
+          }
+        },
+        {
+          "client_id": "200978025252-23pl5q20hrtgqildjr9e8gljqajrboc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC12lKxE6ciy6vogbpsxqk1aVAry7FRSnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200978025252-23pl5q20hrtgqildjr9e8gljqajrboc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
